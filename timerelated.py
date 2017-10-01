@@ -1,14 +1,13 @@
 import time
 import calendar
 import datetime
-'''
 print "Welcome."
 print "Choices-->1)CALENDAR\n2)TIMER"
 month=raw_input("enter the month")
 year=raw_input("enter the year")
 
 print calendar.month(int(year),int(month))
-'''
+#you can ener the event time according to you
 eventime='07:15:00'
 print "Year"
 year=raw_input("-->")
